@@ -1,0 +1,26 @@
+body div{
+  display:flex;
+}
+.pix{
+  width:10px;
+  height:10px;
+  background:#000;
+}
+.first :nth-child(3),
+.first :nth-child(7),
+.second :nth-child(2),
+.second :nth-child(8),
+.second :nth-child(4),
+.second :nth-child(6),
+.third :nth-child(1),
+.third :nth-child(9),
+.third :nth-child(5),
+.fourth :nth-child(8),
+.fourth :nth-child(2),
+.fifth :nth-child(7),
+.fifth :nth-child(3),
+.sixth :nth-child(6),
+.sixth :nth-child(4),
+.seventh :nth-child(5){
+  background:#E7135F;
+}
